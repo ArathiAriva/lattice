@@ -1,0 +1,9 @@
+node_modules/
+.next/
+.venv/
+__pycache__/
+*.db
+*.db-journal
+.env
+.DS_Store
+*.tsbuildinfo
